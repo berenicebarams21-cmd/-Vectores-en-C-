@@ -45,3 +45,7 @@ El proyecto fue desarrollado utilizando C++, un lenguaje de programación amplia
 # Archivo CPP.
 
 tarea 3 vectores Ben.cpp.cpp
+
+# Autor:
+
+Benito Bastardo R.
