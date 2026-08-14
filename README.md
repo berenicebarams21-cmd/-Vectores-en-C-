@@ -40,4 +40,4 @@ El proyecto fue desarrollado utilizando C++, un lenguaje de programación amplia
 
 ![image alt](https://github.com/berenicebarams21-cmd/-Vectores-en-C-/blob/ceff4fd13231374a08636cce4dbecd1cb19a3261/IMG-20260813-WA0030~2.jpg)
 
-![image alt]
+![image alt](https://github.com/berenicebarams21-cmd/-Vectores-en-C-/blob/5100e96207fe3c5f4c0363de5a0e922cd4de6901/IMG-20260813-WA0031~2.jpg)
