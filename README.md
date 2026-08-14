@@ -18,9 +18,7 @@ El programa comienza creando un inventario con cuatro productos y sus respectivo
 
 El proyecto fue desarrollado utilizando C++, un lenguaje de programación ampliamente utilizado para aprender fundamentos de programación y desarrollar aplicaciones eficientes. En esta tarea se emplearon estructuras struct, vectores mediante vector, cadenas de texto, variables numéricas, ciclos for, condiciones if, entrada mediante cin y salida mediante cout para gestionar el inventario.
 
-![image alt](<img width="1209" height="435" alt="image" src="https://github.com/user-attachments/assets/cdc8bd3c-e155-47a7-951a-b66e582f4779" />)
 
-![image alt](<img width="1209" height="443" alt="image" src="https://github.com/user-attachments/assets/e3b8da3d-3f76-4039-83f7-dfa4dca6b6e8" />)
 
 
 
