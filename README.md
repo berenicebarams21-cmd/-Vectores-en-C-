@@ -42,10 +42,6 @@ El proyecto fue desarrollado utilizando C++, un lenguaje de programación amplia
 
 ![image alt](https://github.com/berenicebarams21-cmd/-Vectores-en-C-/blob/5100e96207fe3c5f4c0363de5a0e922cd4de6901/IMG-20260813-WA0031~2.jpg)
 
-# Archivo CPP.
-
-tarea 3 vectores Ben.cpp.cpp
-
 # Autor:
 
 Benito Bastardo R.
