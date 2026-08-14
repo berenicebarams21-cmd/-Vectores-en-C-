@@ -3,7 +3,7 @@
 # Descripción.
 
 
-Este proyecto desarrolla un sistema básico de inventario utilizando vectores en C++. El programa almacena productos junto con sus precios, permite visualizar la información registrada, modificar el precio de un producto mediante su índice,calcular el precio promedio del inventario y consultar los datos correspondientes a una posición determinada dentro del vector. 
+Este proyecto desarrolla un sistema básico de inventario utilizando vectores en C++. El programa almacena productos junto con sus precios, permite visualizar la información registrada, modificar el precio de un producto mediante su índice, calcular el precio promedio del inventario y consultar los datos correspondientes a una posición determinada dentro del vector. 
 
 # Objetivo.
 
